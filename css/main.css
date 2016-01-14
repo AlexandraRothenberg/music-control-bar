@@ -66,9 +66,9 @@ body {
   border: 0;
   background-color: #aaa;
   position: absolute;
-  bottom:-0.7rem;
-  width:100%;
-  left:0;
+  bottom: -0.7rem;
+  width: 100%;
+  left: 0;
 }
 
 /*
@@ -90,14 +90,14 @@ body {
   font-size: .7rem;
   position: absolute;
   left: 3.5rem;
-  bottom:-0;
+  bottom: -0;
 }
 
 .time-total {
   font-size: .7rem;
   position:absolute;
   right: 0.5rem;
-  bottom:-0;
+  bottom: -0;
 }
 
 .controls {
@@ -110,7 +110,7 @@ body {
 }
 
 .control-shuffle {
-  position:absolute;
+  position: absolute;
   top: 0.5rem;
   left: 3.5rem;
 }
@@ -118,11 +118,11 @@ body {
 .control-list {
   position: absolute;
   top: 0.5rem;
-  right:0.5rem;
+  right: 0.5rem;
 }
 
 .control-heart {
   position: absolute;
-  top:0.5rem;
+  top: 0.5rem;
   right: 2rem;
 }
